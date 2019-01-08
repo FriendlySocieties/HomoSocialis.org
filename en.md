@@ -5,10 +5,10 @@ Homo Socialis
 
 #### Table of contents
 
-  * [How it works]()
-  * [Concept]()
-  * [Implementation]()
-  * [Contact]()
+  * [How it works]
+  * [Concept]
+  * [Implementation]
+  * [Contact]
 
 # How it works
 
@@ -97,6 +97,7 @@ If you have a background in a scientific field (sociology, economy) and have an 
 
 In the first phase, our focus lies in covering emergencies and not in a type of self-governing universal decentralized welfare system for health, education, retirement, etc. Our information, homepage and forthcoming software will be open-source and we look forward to hearing about anyone working on similar projects. We will provide a platform to exchange our experiences.
 
+$~$
   
 ©[HomoSocialis.net](https://homosocialis.net) – Version 2018-12-28
 
