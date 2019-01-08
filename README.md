@@ -5,10 +5,10 @@ Homo Socialis
 
 #### Table of contents
 
-  * [How it works]()
-  * [Concept]()
-  * [Implementation]()
-  * [Contact]()
+  * [How it works](#how-it-works)
+  * [Concept](#concept)
+  * [Implementation](#implementation)
+  * [Contact](#contact)
 
 # How it works
 
