@@ -102,5 +102,5 @@ $~$
 ©[HomoSocialis.net](https://homosocialis.net) – Version 2018-12-28
 
 [^1]: "x members must implement": This means that x members are randomly selected out of the group and these members are summoned to do something. Upon completing their task, they receive positive points otherwise they receive negative points. These points are visible to all and members with too many negative points are visually highlighted. These points are only a signal and not any kind of currency. Any form of (crypto-)currency or an ICO are not the goal here.
-[^2]: "this data comes in a locked box": this means that this data cannot be seen by any individual person but can be seen by all members as soon as a certain number of members so request (technically feasible, for example, by means of asymmetric encryption in combination with Shamir's Secret Sharing).
+[^2]: "this data comes in a locked box": this means that this data cannot be seen by any individual person but can be seen by all members as soon as a certain number of members so request (technically feasible, for example, by means of asymmetric encryption in combination with Shamir's Secret Sharing; perhaps threshold encryption could also be possible). Anonymous votes of the jury could possibly be implemented by means of "linkable ring signature".
 
