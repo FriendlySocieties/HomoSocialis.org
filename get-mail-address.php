@@ -37,7 +37,7 @@ Try again, type result of ', $ask, ' =
 </form>';
 } else {
   echo '
-mail: <a href="mailto:mail2019@HomoSocialis.net">mail2019@HomoSocialis.net</a>
+mail: <a href="mailto:mail2019@HomoSocialis.org">mail2019@HomoSocialis.org</a>
 ';
 }
 ?><script>

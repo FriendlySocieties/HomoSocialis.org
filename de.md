@@ -99,8 +99,8 @@ Unser Fokus liegt in der ersten Phase bei der Absicherung von Notfällen und nic
 
 $~$
   
-©[HomoSocialis.net](https://homosocialis.net) – Version 2018-12-28
+©[HomoSocialis.org](https://homosocialis.org) – Version 2018-12-28
 
 [^1]: "x Mitglieder müssen tun": Dies heißt, dass x Mitglieder per Zufall aus allen ausgewählt werden und diese die Aufforderung bekommen etwas zu tun. Machen sie dies, erhalten sie positive Punkte, ansonsten negative Punkte. Diese Punkte sind für alle sichtbar und Mitglieder mit zu vielen negativen Punkten werden optisch hervorgehoben. Diese Punkte dienen nur als Signal und nicht als irgend eine Form von Währung. Es wird auch weder eine eigene (Krypto-)Währung noch ein ICO angestrebt.
-[^2]: "diese Daten kommen in eine verschlossene Box": Dies bedeutet, dass diese Daten von keiner einzelnen Person einsehbar sind, aber von allen Mitgliedern sobald eine bestimmte Zahl an Mitgliedern dies fordert (technisch z.B. umsetzbar mittels asymmetrischer Verschlüsselung in Kombination mit Shamir’s Secret Sharing; Schwellwert-Verschlüsselung könnte auch eine Möglichkeit sein). Anonymes Abstimmen der Jury könnte evtl. mittels "linkable ring signature" umgesetzt werden.
+[^2]: "diese Daten kommen in eine verschlossene Box": Dies bedeutet, dass diese Daten von keiner einzelnen Person einsehbar sind, aber von allen Mitgliedern sobald eine bestimmte Zahl an Mitgliedern dies fordert (technisch z.B. umsetzbar mittels asymmetrischer Verschlüsselung in Kombination mit Shamir’s Secret Sharing; Schwellwert-Verschlüsselung könnte auch eine Möglichkeit sein). Anonymes Abstimmen der Jury könnte evtl. mittels "aggregate signature, linkable ring signature" umgesetzt werden.
 
